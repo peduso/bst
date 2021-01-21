@@ -89,7 +89,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"mapwechsel",
+                 "name":"exitScreenUrl",
                  "type":"string",
                  "value":"https:\/\/play.scoutnet.im\/_\/global\/maps.scoutnet.im\/Scoutnet\/map.json"
                 }],
