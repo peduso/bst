@@ -125,9 +125,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsi-room",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.ultrachaos.de\/aoesutnh"
+                 "value":"kjgbundesstelle"
                 }],
          "type":"tilelayer",
          "visible":true,
